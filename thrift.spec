@@ -5,8 +5,8 @@ Version:        %{ver}
 Release:        kiwi1
 Summary:        facebook thrift
 Group:          Development/Languages
-License:        ERPL
-URL:            http://www.mozilla.org
+License:        Apache Software License
+URL:            http://thrift.apache.org/
 BuildRoot:      %{_tmppath}/%{name}-%{version}-%{release}-root-%(%{__id_u} -n)
 Source:		http://archive.apache.org/dist/thrift/%{ver}/thrift-%{ver}.tar.gz
 
